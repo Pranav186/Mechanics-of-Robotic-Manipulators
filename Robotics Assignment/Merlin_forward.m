@@ -1,3 +1,4 @@
+%function to calculate forward kinematics of Merlin Robot
 function [T_e]= Merlin_forward(d1, d2, a2, a3, THETA)
    THETA=[0.1 0.2 0.3 0.4 0.5 0.6];
    d1=1;
