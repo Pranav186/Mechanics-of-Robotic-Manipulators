@@ -1,3 +1,4 @@
+%function to calculate inverse kinematics of Merlin Robot
 function [THETA] = Merlin_inverse()
   d1=1;
   d2=2;
