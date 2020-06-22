@@ -1,4 +1,0 @@
-<?xml version="1.0"?>
-<robot name= "pranav_robot">
-    <link name="base link">
-    <visual>
